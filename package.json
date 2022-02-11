@@ -1,0 +1,27 @@
+{
+  "name": "knowlex-w16-alessandra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllySaraiva/knowlex-w16-alessandra.git"
+  },
+  "keywords": [],
+   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllySaraiva/knowlex-w16-alessandra/issues"
+  },
+  "homepage": "https://AllySaraiva.github.io/knowlex-w16-alessandra",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "author": {
+    "name": "Alessandra Saraiva Avila",
+    "email": "alessandra.saraiva@hotmail.com"
+  }
+}
